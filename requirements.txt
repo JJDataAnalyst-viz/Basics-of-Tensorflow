@@ -6,11 +6,4 @@ tensorflow
 torch
 scikit-learn
 seaborn
-=======
-numpy 
-pandas
-matplotlib
-tensorflow
-torch
-scikit-learn
->>>>>>> 7e18624e67f57c21376be88c115562f7883c7fcb
+
